@@ -5,6 +5,7 @@ console.log("create my-feature branch");
 console.log("feature branch work 1");
 console.log("feature branch work 2");
 console.log("feature branch work 3");
+console.log("another feature branch work 4");
 
 (() => {
     var dt = Object.defineProperty;
