@@ -1,5 +1,8 @@
 "use strict";
 
+console.log("github download");
+
+
 (() => {
     var dt = Object.defineProperty;
     var Et = (e, t, o) => t in e ? dt(e, t, {enumerable: !0, configurable: !0, writable: !0, value: o}) : e[t] = o;
