@@ -5,7 +5,7 @@ console.log("create my-feature branch");
 console.log("feature branch work 1");
 console.log("feature branch work 2");
 console.log("feature branch work 3");
-console.log("conflict mac2");
+console.log("conflict mac2 MACBOOK");
 
 (() => {
     var dt = Object.defineProperty;
